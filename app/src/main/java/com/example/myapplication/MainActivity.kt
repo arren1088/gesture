@@ -52,7 +52,7 @@ class MainActivity : ComponentActivity() {
 
 fun PointerEvents() {
 
-    var msg by remember { mutableStateOf("作者：楊世堅") }
+    var msg by remember { mutableStateOf("作者：陳恩儒") }
 
     Column {
 
